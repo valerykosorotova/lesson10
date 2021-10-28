@@ -24,6 +24,7 @@
 .navigation-items{
     display: inline-block;
     vertical-align: top;
+    position: relative;
 }
 
 .navigation-link{
@@ -60,6 +61,7 @@
     font-weight: 400;
     font-size: 20px;
     line-height: 26px;
+    position: relative;
 }
 
 
